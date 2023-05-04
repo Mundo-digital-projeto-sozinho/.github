@@ -1,12 +1,23 @@
-## Hi there 👋
+## Mundo Digital
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h2>Qual objetivo ?</h2>
+    
+   > Olá sou winycios alves nascimento, desenvolvedor de software e full-stack júnior. Esse repositório é destinado para o projeto individual do primeiro semestre da faculdade spTech onde será abordado "inteligêcia artifical".    
+ 
+<div style = "width:100%">
+<img alt="Foto Winycios" src="https://trello-members.s3.amazonaws.com/6215437454c3364dfa016130/6117224405dd9c0781590d44265f1e91/original.png" width = 200 align="left">
+</div>
+    <h4>Winycios Nascimento</h4>
+  <p><i>
+        - Estudante na Universidade SPTECH, faculdade de tecnologia de São Paulo.<br>
+        <a href= "url.com">
+        <img alt="Rede Social" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" align="center" width="50" height="50">
+       </a>
+       <a href= "url.com">
+       <img alt="Rede Social" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRqxJYUdQM20b-kpw0btYL7orcsnvUnvSJtA&usqp=CAU" align="center" width="50" height="50">
+       </a>
+        <a href= "url.com">
+        <img alt="Rede Social" src="https://user-images.githubusercontent.com/86174349/228012688-97fdee29-8f40-4804-b9cc-a1042ab09598.png" align="center" width="50" height="50">
+        </a>
+<hr>
+</div>
