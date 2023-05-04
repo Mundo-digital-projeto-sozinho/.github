@@ -1,4 +1,4 @@
-<img alt="Foto Logo" src="https://user-images.githubusercontent.com/86174349/228026986-8bf2663f-7519-442a-8811-67ca07074837.png" width = 100% align="center">
+## Mundo Digital
 
 <h2>Qual objetivo ?</h2>
     
